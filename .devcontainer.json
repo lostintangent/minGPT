@@ -1,7 +1,7 @@
 {
 	"extensions": [
-		"ms-toolsai.jupyter",
-		"ms-python.python",
+		"ms-toolsai.jupyter@prerelease",
+		"ms-python.python@prerelease",
 		"GitHub.copilot"
 	]
 }
